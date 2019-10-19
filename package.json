@@ -5,7 +5,13 @@
   "repository": "https://github.com/bsicchieri/gostack9-challenge1.git",
   "author": "bsicchieri <brunosicchieri@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
   }
 }
