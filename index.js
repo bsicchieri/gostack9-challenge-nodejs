@@ -16,7 +16,7 @@ function checkProjectExist(req, res, next) {
     return res.status(400).json({ error: 'Project not exists' });
   }
 
-  return next();
+  
 }
 
 function logRequest(req, res, next) {
