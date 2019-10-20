@@ -6,7 +6,7 @@
  Challenge 1: NodeJS Concepts
 </h3>
 
-### About the challenge 1
+### About
 Application to store projects and their tasks from scratch using Express.
 
 ### Rotas
