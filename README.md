@@ -6,6 +6,8 @@
  Challenge 1: NodeJS Concepts
 </h3>
 
+<blockquote align="center">Developed during Rocketseat GoStack9 Bootcamp</blockquote>
+
 ## About
 Application to store projects and their tasks from scratch using Express.
 
@@ -24,5 +26,3 @@ Application to store projects and their tasks from scratch using Express.
 - Middleware that will be used on all routes that receive the project ID in the URL parameters that check if the project with that ID exists. If none exists return an error, otherwise allow the request to continue normally;
 
 - A global middleware called on all requests that prints (`console.log`) a count of how many requests have been made in the application so far.
-
-<blockquote align="center">Developed during Rocketseat GoStack9 Bootcamp</blockquote>
