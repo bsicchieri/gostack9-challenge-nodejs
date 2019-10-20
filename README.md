@@ -6,10 +6,16 @@
  Challenge 1: NodeJS Concepts
 </h3>
 
+<p align="center">
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#routes">Routes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#middlewares">Middlewares</a>
+</p>
+
 ## About
 Application to store projects and their tasks from scratch using Express.
 
-## Rotas
+## Routes
 - `POST / projects`: The route should get` id` and `title` inside the body and register a new project into an array in the following format:` {id: "1", title: 'New project', tasks : []} `;
 
 - `GET / projects`: Route that lists all projects and their tasks;
