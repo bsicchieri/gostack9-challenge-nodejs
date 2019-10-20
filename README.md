@@ -6,11 +6,7 @@
  Challenge 1: NodeJS Concepts
 </h3>
 
-<p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#routes">Routes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#middlewares">Middlewares</a>
-</p>
+<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
 
 ## About
 Application to store projects and their tasks from scratch using Express.
