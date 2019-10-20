@@ -6,9 +6,7 @@
  Challenge 1: NodeJS Concepts
 </h3>
 
-<h5 align="center"> Air Code and Coffee </h5>
-
-<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
+<h5 align="center"> Developed during Rocketseat GoStack9 Bootcamp </h5>
 
 ## About
 Application to store projects and their tasks from scratch using Express.
