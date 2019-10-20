@@ -6,7 +6,7 @@
  Challenge 1: NodeJS Concepts
 </h3>
 
-
+<blockquote align="center">Developed during Rocketseat GoStack9 Bootcamp</blockquote>
 
 ## About
 Application to store projects and their tasks from scratch using Express.
