@@ -23,4 +23,4 @@ Application to store projects and their tasks from scratch using Express.
 ### Middlewares
 - Create middleware that will be used on all routes that receive the project ID in the URL parameters that check if the project with that ID exists. If none exists return an error, otherwise allow the request to continue normally;
 
-Create a global middleware called on all requests that prints (`console.log`) a count of how many requests have been made in the application so far.
+- Create a global middleware called on all requests that prints (`console.log`) a count of how many requests have been made in the application so far.
