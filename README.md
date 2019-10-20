@@ -2,11 +2,9 @@
     <img alt="GoStack" src=".github/logo.png" width="200px" />
 </h1>
 
-<h2 align="center">
+<h3 align="center">
  Challenge 1: NodeJS Concepts
-</h2>
-
-<h5 align="center"> Developed during Rocketseat GoStack9 Bootcamp </h5>
+</h3>
 
 <blockquote align="center">Developed during Rocketseat GoStack9 Bootcamp</blockquote>
 
